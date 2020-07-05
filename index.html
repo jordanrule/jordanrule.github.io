@@ -13,10 +13,19 @@
             left: 16px;
             color: white;
         }
+        .equation {
+            font-family: Helvetica, Arial;
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            color: white;
+        }
         .bluebonnets {
             position: relative;
         }
     </style>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
     <div class="bluebonnets">
@@ -31,6 +40,9 @@
             And the blackberries a-growing.
             <i>Henry David Thoreau</i>
         </pre></div>
+        <div class="equation"><p>
+          \mathbb{E}(v, h) = -\sum\nolimits_{i \in visible} \frac{(v_i - a_i)^2}{2\sigma_i} - \sum\nolimits_{j \in hidden} b_j h_j - \sum\nolimits_{i,j}\frac{v_i}{\sigma_i} h_j w_{ij}
+        </p></div>
     </div>
 </body>
 </html>
