@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/duckies81
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jordanrule.ai
+  * I am duckies81 (https://keybase.io/duckies81) on keybase.
+  * I have a public key ASDWHtbmPSzIvYdRFOmPqG-QoudJ28g5k4AA7FNvTdqxQQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dd5dcafbd103d68a051d267f69a0a5f7bdc571c816b64fb0a167b8187f552c720a",
+      "host": "keybase.io",
+      "kid": "0120d61ed6e63d2cc8bd875114e98fa86f90a2e749dbc839938000ec536f4ddab1410a",
+      "uid": "9df562751ef4f3251446398780abc019",
+      "username": "duckies81"
+    },
+    "merkle_root": {
+      "ctime": 1621222799,
+      "hash": "a610c318014e41ea640674c360df87fe0b7ce2d9fc313f89de6d3282b625ebec4158532e47edfeb5077a7b5ba2b8e27d05746e564a4a9896b238dd5302d8e84a",
+      "hash_meta": "08bafbd1c7cd18179119870098f2a00a9f99b5af0678804734aee350ef69a28b",
+      "seqno": 19962990
+    },
+    "service": {
+      "entropy": "O0iYpxCO/iFoRSZyr+aU4pgq",
+      "hostname": "jordanrule.ai",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1621222851,
+  "expire_in": 504576000,
+  "prev": "f3c9baeca4cf434a350d538f1fdf86ff606c202b31998deb75c6d0aae76917b7",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1h7W5j0syL2HURTpj6hvkKLnSdvIOZOAAOxTb03asUEKp3BheWxvYWTESpcCG8Qg88m67KTPQ0o1DVOPH9+G/2BsICsxmY3rdcbQqudpF7fEIEM4JAwTPEG9hO/D/WrO+St20zn4DANIKC8CpdOUms6TAgHCo3NpZ8RAliqU1+YFAEjcpT7Zx3LnXnvM5Q9xKfIn0EFrYip9FQ23Gp2KaEkIKlt3Hucg6+rVk0nRXkLhJR5QABDnbVgfD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBfk39Eoyn6G7snGGCcwnvS+2uKP1bq9kqIeu3CD3Axxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/duckies81
+
+==================================================================
